@@ -1,12 +1,11 @@
 # House Price Prediction Case Study 
 
-A US-based housing company named "Surprise Housing" uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. It has decided to enter the Australian market and so it is looking at prospective properties to buy to enter the market. For this purpose, the company wants to know
+A US-based housing company named "Surprise Housing" uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. It has decided to enter the Australian market and so it is looking at prospective properties to buy to enter the market. 
 
-Which factors are significant in predicting the price of a house
-How well those factors describe the price of a house.
-Our goal:
-To create a regression model for the target variable named "SalePrice" based on collected data set and using regularisation technique in order to predict the actual value of the prospective properties accurately so that it can be decided whether it will be good to invest in those or not.
-
+For this purpose, the company wants to know :
+1. Which factors are significant in predicting the price of a house
+2. How well those factors describe the price of a house.
+   
 Business Objective:
 
 To understand how exactly the SalePrice vary with the features so that this knowledge can be used to concentrate on areas that will yield high returns
@@ -20,7 +19,7 @@ To understand the pricing dynamics of a new market.
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- The main objective of this analysis is to create a linear regression model to understand which independent variables/attributes (predictor) are mostly impacting outcome variable "cnt" (count of total rental bikes)
+- To create a regression model for the target variable named "SalePrice" based on collected data set and using regularisation technique in order to predict the actual value of the prospective properties accurately so that it can be decided whether it will be good to invest in those or not.
 - Steps followed for this analysis: 
   1. Reading and cleaning the Data
      - Input dataset used for this analysis had 730 rows and 16 columns
